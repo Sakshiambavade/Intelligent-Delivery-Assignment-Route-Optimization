@@ -1,0 +1,32 @@
+[
+  {
+    "DELIVERY_BOY_ID": "DB_1",
+    "SHIFT": "Morning",
+    "VEHICLE_TYPE": "Bike"
+  },
+  {
+    "DELIVERY_BOY_ID": "DB_2",
+    "SHIFT": "Evening",
+    "VEHICLE_TYPE": "Cycle"
+  },
+  {
+    "DELIVERY_BOY_ID": "DB_3",
+    "SHIFT": "Evening",
+    "VEHICLE_TYPE": "Cycle"
+  },
+  {
+    "DELIVERY_BOY_ID": "DB_4",
+    "SHIFT": "Evening",
+    "VEHICLE_TYPE": "Bike"
+  },
+  {
+    "DELIVERY_BOY_ID": "DB_5",
+    "SHIFT": "Morning",
+    "VEHICLE_TYPE": "Cycle"
+  },
+  {
+    "DELIVERY_BOY_ID": "DB_6",
+    "SHIFT": "Evening",
+    "VEHICLE_TYPE": "Cycle"
+  }
+]
