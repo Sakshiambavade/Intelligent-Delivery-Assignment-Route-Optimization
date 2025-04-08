@@ -1,0 +1,302 @@
+[
+  {
+    "ORDER_ID": "ORDER_1",
+    "LATITUDE": "17.029433",
+    "LONGITUDE": "74.574437",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_2",
+    "LATITUDE": "17.017115",
+    "LONGITUDE": "74.707327",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_3",
+    "LATITUDE": "16.803010",
+    "LONGITUDE": "74.748056",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_4",
+    "LATITUDE": "16.803876",
+    "LONGITUDE": "74.767314",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_5",
+    "LATITUDE": "16.849882",
+    "LONGITUDE": "74.507275",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_6",
+    "LATITUDE": "16.699622",
+    "LONGITUDE": "74.663043",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_7",
+    "LATITUDE": "16.715309",
+    "LONGITUDE": "74.436122",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_8",
+    "LATITUDE": "16.728039",
+    "LONGITUDE": "74.469238",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_9",
+    "LATITUDE": "17.040680",
+    "LONGITUDE": "74.694053",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_10",
+    "LATITUDE": "16.904650",
+    "LONGITUDE": "74.441300",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_11",
+    "LATITUDE": "16.775328",
+    "LONGITUDE": "74.500900",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_12",
+    "LATITUDE": "17.054472",
+    "LONGITUDE": "74.526871",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_13",
+    "LATITUDE": "16.847384",
+    "LONGITUDE": "74.743173",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_14",
+    "LATITUDE": "16.953715",
+    "LONGITUDE": "74.385272",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_15",
+    "LATITUDE": "16.945105",
+    "LONGITUDE": "74.696295",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_16",
+    "LATITUDE": "16.708982",
+    "LONGITUDE": "74.708415",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_17",
+    "LATITUDE": "16.789925",
+    "LONGITUDE": "74.493980",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_18",
+    "LATITUDE": "17.010448",
+    "LONGITUDE": "74.561780",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_19",
+    "LATITUDE": "16.820175",
+    "LONGITUDE": "74.475263",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_20",
+    "LATITUDE": "16.941030",
+    "LONGITUDE": "74.450303",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_21",
+    "LATITUDE": "16.873221",
+    "LONGITUDE": "74.649672",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_22",
+    "LATITUDE": "16.924340",
+    "LONGITUDE": "74.531341",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_23",
+    "LATITUDE": "16.877989",
+    "LONGITUDE": "74.433288",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_24",
+    "LATITUDE": "16.962885",
+    "LONGITUDE": "74.619152",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_25",
+    "LATITUDE": "16.805218",
+    "LONGITUDE": "74.358305",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_26",
+    "LATITUDE": "16.788673",
+    "LONGITUDE": "74.442983",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_27",
+    "LATITUDE": "16.729843",
+    "LONGITUDE": "74.407641",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_28",
+    "LATITUDE": "17.048541",
+    "LONGITUDE": "74.647800",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_29",
+    "LATITUDE": "17.029091",
+    "LONGITUDE": "74.662217",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_30",
+    "LATITUDE": "16.789095",
+    "LONGITUDE": "74.564410",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_31",
+    "LATITUDE": "16.742844",
+    "LONGITUDE": "74.450800",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_32",
+    "LATITUDE": "16.981119",
+    "LONGITUDE": "74.604692",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_33",
+    "LATITUDE": "16.754843",
+    "LONGITUDE": "74.683454",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_34",
+    "LATITUDE": "16.934730",
+    "LONGITUDE": "74.355478",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_35",
+    "LATITUDE": "17.030803",
+    "LONGITUDE": "74.516487",
+    "DELIVERY_TYPE": "Office"
+  },
+  {
+    "ORDER_ID": "ORDER_36",
+    "LATITUDE": "16.765273",
+    "LONGITUDE": "74.746331",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_37",
+    "LATITUDE": "16.807557",
+    "LONGITUDE": "74.460537",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_38",
+    "LATITUDE": "16.695205",
+    "LONGITUDE": "74.441515",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_39",
+    "LATITUDE": "17.044992",
+    "LONGITUDE": "74.664989",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_40",
+    "LATITUDE": "16.875594",
+    "LONGITUDE": "74.400032",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_41",
+    "LATITUDE": "16.748899",
+    "LONGITUDE": "74.457004",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_42",
+    "LATITUDE": "16.800049",
+    "LONGITUDE": "74.438266",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_43",
+    "LATITUDE": "16.698686",
+    "LONGITUDE": "74.460965",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_44",
+    "LATITUDE": "16.974512",
+    "LONGITUDE": "74.579833",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_45",
+    "LATITUDE": "16.742111",
+    "LONGITUDE": "74.687580",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_46",
+    "LATITUDE": "16.923977",
+    "LONGITUDE": "74.482494",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_47",
+    "LATITUDE": "16.721205",
+    "LONGITUDE": "74.431221",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_48",
+    "LATITUDE": "16.798334",
+    "LONGITUDE": "74.551566",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_49",
+    "LATITUDE": "16.782749",
+    "LONGITUDE": "74.794182",
+    "DELIVERY_TYPE": "Home"
+  },
+  {
+    "ORDER_ID": "ORDER_50",
+    "LATITUDE": "16.719670",
+    "LONGITUDE": "74.441078",
+    "DELIVERY_TYPE": "Home"
+  }
+]
